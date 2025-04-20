@@ -1,7 +1,1 @@
-git
-git -v
-git -n
-ls структура проэкту   1
-ls  -h структура проэкту   2
-is -force
- git status   стан проэкту
+
